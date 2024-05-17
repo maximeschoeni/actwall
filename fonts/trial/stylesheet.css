@@ -1,0 +1,77 @@
+/*
+ *
+ * INSTRUCTIONS
+ *
+ * Copy the Legal Disclaimer and the @font-faces statements to your regular CSS file.
+ * The font file(s) should be placed relative to the regular CSS file.
+ *
+ */
+
+/*
+ * Legal Disclaimer for Trial Licence licence
+ *
+ * Trial Licence
+ *
+ * Trial Web License for evaluation, testing and presentation purposes on internal domains without public access only.
+ *
+ * The font files may not be distributed, published or used on any other domain(s).
+ *
+ * Any further use is strictly prohibited.
+ *
+ * For internal test and presentation use only.
+ * For both print use and web / electronic use on internal domains without public access. Licencee may create documents / visuals / web pages etc. for the purpose of evaluation and presentation to clients or other interested parties.
+ * Any further use is strictly prohibited. The font files may not be distributed, published or used on any other domain(s).
+ *
+ */
+
+/* complete */
+
+@font-face {
+  font-family: "MediumLLTrialWeb-BoldItalic";
+  src: url("MediumLLTrialWeb-BoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-LightItalic";
+  src: url("MediumLLTrialWeb-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-Regular";
+  src: url("MediumLLTrialWeb-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-Italic";
+  src: url("MediumLLTrialWeb-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-BookItalic";
+  src: url("MediumLLTrialWeb-BookItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-Light";
+  src: url("MediumLLTrialWeb-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-SemiBoldItalic";
+  src: url("MediumLLTrialWeb-SemiBoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-SemiBold";
+  src: url("MediumLLTrialWeb-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-Book";
+  src: url("MediumLLTrialWeb-Book.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "MediumLLTrialWeb-Bold";
+  src: url("MediumLLTrialWeb-Bold.woff2") format("woff2");
+}

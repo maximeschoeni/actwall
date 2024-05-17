@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: actwall v17\n"
+"POT-Creation-Date: 2024-03-12 14:38+0100\n"
+"PO-Revision-Date: 2024-03-12 14:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/formats.php:139
+#, php-format
+msgid "Dimension de l’image %sx%s"
+msgstr "Image size %sx%s"
+
+#: classes/formats.php:140
+#, php-format
+msgid "Dimension du papier %sx%s"
+msgstr "Paper size %sx%s"
+
+#: include/attachment/acquire-button.php:1 include/translations.php:4
+msgid "Acquire this work"
+msgstr ""
+
+#: include/attachment/detail-navigation.php:7 include/translations.php:13
+msgid "Save"
+msgstr ""
+
+#: include/attachment/detail-navigation.php:13
+msgid "view in room"
+msgstr ""
+
+#: include/attachment/detail-navigation.php:24 include/translations.php:15
+msgid "Share"
+msgstr ""
+
+#: include/attachment/single-header-NOT-USED.php:12
+#: include/members/single-header.php:13 include/members/single-header.php:60
+#: include/product/product-header.php:14
+#: include/product/product-header.php:40 include/translations.php:9
+msgid "Biography"
+msgstr ""
+
+#: include/attachment/single-header-NOT-USED.php:13
+#: include/members/single-header.php:14 include/members/single-header.php:61
+msgid "Portfolio"
+msgstr ""
+
+#: include/attachment/single-header-NOT-USED.php:14
+#: include/attachment/single.php:169 include/product/product-header.php:13
+#: include/product/product-header.php:39 include/product/single.php:120
+#: include/translations.php:10
+msgid "All works"
+msgstr ""
+
+#: include/attachment/single.php:45
+msgid "Edition"
+msgstr ""
+
+#: include/attachment/single.php:72
+#: include/product/product-edition-bkp.php:126 include/translations.php:5
+msgid "Specifications"
+msgstr ""
+
+#: include/attachment/single.php:85
+#: include/product/product-edition-bkp.php:139 include/translations.php:6
+msgid "Framing"
+msgstr ""
+
+#: include/attachment/single.php:98
+#: include/product/product-edition-bkp.php:152 include/translations.php:7
+msgid "Exhibitions history"
+msgstr ""
+
+#: include/attachment/single.php:111
+#: include/product/product-edition-bkp.php:165 include/translations.php:8
+msgid "Shipping"
+msgstr ""
+
+#: include/attachment/single.php:133 include/product/single.php:82
+#: include/translations.php:12
+msgid "About the work"
+msgstr ""
+
+#: include/attachment/single.php:141
+msgid "Explore portfolio"
+msgstr ""
+
+#: include/attachment/single.php:149
+msgid "About the photographer"
+msgstr ""
+
+#: include/attachment/single.php:158
+msgid "Explore biography"
+msgstr ""
+
+#: include/attachment/single.php:176 include/members/photographers.php:67
+#: include/members/photographers.php:84 include/product/single.php:128
+#: include/shows/page-evenements.php:73 include/translations.php:17
+msgid "See more"
+msgstr ""
+
+#: include/attachment/single.php:181 include/members/single-body.php:124
+#: include/shows/relations.php:2 include/translations.php:25
+msgid "Exhibitions"
+msgstr ""
+
+#: include/home/grid.php:70 include/translations.php:18
+msgid "From"
+msgstr ""
+
+#: include/members/photographers.php:10 include/members/photographers.php:21
+msgid "Apply to be a new member"
+msgstr ""
+
+#: include/members/relation-publications.php:2
+msgid "Books"
+msgstr ""
+
+#: include/members/single-body.php:25 include/translations.php:19
+msgid "Represented by"
+msgstr ""
+
+#: include/members/single-body.php:37 include/page/body-our-engagement.php:38
+#: include/translations.php:20
+msgid "Contact"
+msgstr ""
+
+#: include/members/single-body.php:49 include/translations.php:21
+msgid "Email"
+msgstr ""
+
+#: include/members/single-body.php:54 include/translations.php:22
+msgid "Instagram"
+msgstr ""
+
+#: include/members/single-body.php:70 include/translations.php:23
+msgid "Awards"
+msgstr ""
+
+#: include/members/single-body.php:97 include/translations.php:24
+msgid "Publications"
+msgstr ""
+
+#: include/members/single-header.php:12 include/members/single-header.php:59
+msgid "All Works"
+msgstr ""
+
+#: include/page/body-our-engagement.php:83
+msgid "Team"
+msgstr ""
+
+#: include/translations.php:3
+msgid "Sort By"
+msgstr ""
+
+#: include/translations.php:11
+msgid "Follow"
+msgstr ""
+
+#: include/translations.php:14
+msgid "View in room"
+msgstr ""
+
+#: include/translations.php:16
+msgid "Other works"
+msgstr ""
+
+#: include/translations.php:26
+msgid "Signature"
+msgstr ""
+
+#: include/translations.php:27
+msgid "Selected exhibitions"
+msgstr ""
+
+#: include/translations.php:28
+msgid "Acquired by institutions"
+msgstr ""

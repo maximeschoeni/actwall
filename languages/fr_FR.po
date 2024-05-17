@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: actwall v17\n"
+"POT-Creation-Date: 2024-03-12 15:11+0100\n"
+"PO-Revision-Date: 2024-03-12 15:11+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/formats.php:139
+#, php-format
+msgid "Dimension de l’image %sx%s"
+msgstr ""
+
+#: classes/formats.php:140
+#, php-format
+msgid "Dimension du papier %sx%s"
+msgstr ""
+
+#: include/attachment/acquire-button.php:1 include/translations.php:4
+msgid "Acquire this work"
+msgstr "Acquérir cette œuvre"
+
+#: include/attachment/detail-navigation.php:7 include/translations.php:13
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: include/attachment/detail-navigation.php:13
+msgid "view in room"
+msgstr "vue dans la chambre"
+
+#: include/attachment/detail-navigation.php:24 include/translations.php:15
+msgid "Share"
+msgstr "Partager"
+
+#: include/attachment/single-header-NOT-USED.php:12
+#: include/members/single-header.php:13 include/members/single-header.php:60
+#: include/product/product-header.php:14
+#: include/product/product-header.php:40 include/translations.php:9
+msgid "Biography"
+msgstr "Biographie"
+
+#: include/attachment/single-header-NOT-USED.php:13
+#: include/members/single-header.php:14 include/members/single-header.php:61
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: include/attachment/single-header-NOT-USED.php:14
+#: include/attachment/single.php:169 include/product/product-header.php:13
+#: include/product/product-header.php:39 include/product/single.php:120
+#: include/translations.php:10
+msgid "All works"
+msgstr "Toutes les oeuvres"
+
+#: include/attachment/single.php:45
+msgid "Edition"
+msgstr "Édition"
+
+#: include/attachment/single.php:72
+#: include/product/product-edition-bkp.php:126 include/translations.php:5
+msgid "Specifications"
+msgstr "Spécifications"
+
+#: include/attachment/single.php:85
+#: include/product/product-edition-bkp.php:139 include/translations.php:6
+msgid "Framing"
+msgstr "Encadrement"
+
+#: include/attachment/single.php:98
+#: include/product/product-edition-bkp.php:152 include/translations.php:7
+msgid "Exhibitions history"
+msgstr "Historique des expositions"
+
+#: include/attachment/single.php:111
+#: include/product/product-edition-bkp.php:165 include/translations.php:8
+msgid "Shipping"
+msgstr "Expédition"
+
+#: include/attachment/single.php:133 include/product/single.php:82
+#: include/translations.php:12
+msgid "About the work"
+msgstr "A propos de l'œuvre"
+
+#: include/attachment/single.php:141
+msgid "Explore portfolio"
+msgstr "Explorer le portfolio"
+
+#: include/attachment/single.php:149
+msgid "About the photographer"
+msgstr "À propos du photographe"
+
+#: include/attachment/single.php:158
+msgid "Explore biography"
+msgstr "Explorer la biographie"
+
+#: include/attachment/single.php:176 include/members/photographers.php:67
+#: include/members/photographers.php:84 include/product/single.php:128
+#: include/shows/page-evenements.php:73 include/translations.php:17
+msgid "See more"
+msgstr "Plus d'informations"
+
+#: include/attachment/single.php:181 include/members/single-body.php:124
+#: include/shows/relations.php:2 include/translations.php:25
+msgid "Exhibitions"
+msgstr "Expositions"
+
+#: include/home/body.php:32 include/translations.php:31
+msgid "Artworks"
+msgstr "Œuvres d'art"
+
+#: include/home/grid.php:70 include/translations.php:18
+msgid "From"
+msgstr "À partir de"
+
+#: include/members/photographers.php:10 include/members/photographers.php:21
+msgid "Apply to be a new member"
+msgstr "S'inscrire comme nouveau membre"
+
+#: include/members/relation-publications.php:2
+msgid "Books"
+msgstr "Livr"
+
+#: include/members/single-body.php:25 include/translations.php:19
+msgid "Represented by"
+msgstr "Représenté par"
+
+#: include/members/single-body.php:37 include/page/body-our-engagement.php:38
+#: include/translations.php:20
+msgid "Contact"
+msgstr ""
+
+#: include/members/single-body.php:49 include/translations.php:21
+msgid "Email"
+msgstr ""
+
+#: include/members/single-body.php:54 include/translations.php:22
+msgid "Instagram"
+msgstr ""
+
+#: include/members/single-body.php:70 include/translations.php:23
+msgid "Awards"
+msgstr "Prix"
+
+#: include/members/single-body.php:97 include/translations.php:24
+msgid "Publications"
+msgstr ""
+
+#: include/members/single-header.php:12 include/members/single-header.php:59
+msgid "All Works"
+msgstr "Tous les travaux"
+
+#: include/page/body-our-engagement.php:83
+msgid "Team"
+msgstr "L'équipe"
+
+#: include/translations.php:3
+msgid "Sort By"
+msgstr "Trier par"
+
+#: include/translations.php:11
+msgid "Follow"
+msgstr "Suivre"
+
+#: include/translations.php:14
+msgid "View in room"
+msgstr "Voir dans la pièce"
+
+#: include/translations.php:16
+msgid "Other works"
+msgstr "Autres travaux"
+
+#: include/translations.php:26
+msgid "Signature"
+msgstr ""
+
+#: include/translations.php:27
+msgid "Selected exhibitions"
+msgstr "Expositions sélectionnées"
+
+#: include/translations.php:28
+msgid "Acquired by institutions"
+msgstr "Acquis par des institutions"
+
+#: include/translations.php:29
+msgid "Close filters"
+msgstr "Fermer les filtres"
+
+#: include/translations.php:30
+msgid "Filters"
+msgstr "Filtres"
+
+#: include/translations.php:32
+msgid "New Work"
+msgstr "Nouveau travail"
+
+#: include/translations.php:33
+msgid "Price (low to high)"
+msgstr "Prix (de bas en haut)"
+
+#: include/translations.php:34
+msgid "Price (high to low)"
+msgstr "Prix (de haut en bas)"
+
+#: include/translations.php:35
+msgid "Already produced"
+msgstr "Déjà produit"
+
+#: include/translations.php:36
+msgid "Has to be produced (1-2 weeks)"
+msgstr "Doit être produit (1-2 semaines)"
+
+#: include/translations.php:37
+msgid "Small (under 40 cm)"
+msgstr "Petit (moins de 40 cm)\t"
+
+#: include/translations.php:38
+msgid "Medium (under 40 - 100 cm)"
+msgstr "Moyen (moins de 40 - 100 cm)"
+
+#: include/translations.php:39
+msgid "Large (over 100 cm)"
+msgstr "Grand (plus de 100 cm)"
+
+#: include/translations.php:40
+msgid "Red"
+msgstr "Rouge"
+
+#: include/translations.php:41
+msgid "Blue"
+msgstr "Bleu"
+
+#: include/translations.php:42
+msgid "Green"
+msgstr "Vert"
+
+#: include/translations.php:43
+msgid "Framed print"
+msgstr "Tirage encadré"
+
+#: include/translations.php:44
+msgid "Print only"
+msgstr "Tirage seul"
+
+#: include/translations.php:45
+msgid "size"
+msgstr "taille"
